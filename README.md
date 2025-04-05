@@ -1,5 +1,5 @@
 # Criando-um-Copiloto-com-Fluxo-de-Conversa-Personalizado-no-Microsoft-Copilot-Studio
-### Desafio 2: Bootcamp DIO/Suzano - Python Developer
+### Desafio 2: Bootcamp Microsoft AI for Tech - Copilot Studio
 
 ## 🚀 Visão Geral
 Este desafio teve como objetivo a criação de um ***Copiloto Inteligente***, ou ***Agente***, cuja finalidade foi executar um fluxo de conversa personalizado desenvolvido através da ferramenta ***"Microsoft Copilot Studio"***.
